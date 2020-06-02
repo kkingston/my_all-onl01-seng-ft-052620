@@ -11,7 +11,7 @@ def my_all?(collection)
   if block_return_values.inculde?(false)
     false
   else
-    TRUE
+    true
   end
 end
 
